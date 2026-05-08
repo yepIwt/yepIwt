@@ -5,9 +5,7 @@
 
 **nikita** · yaroslavl, russia
 
-python mostly. building things for telegram, music, and whatever else comes up.
-
-> *someday, i'd like to live a life based on doing good stuff instead of just not doing bad stuff.*
+doesn't exist? yep, i wrote it.
 
 
 **things i've worked on**
@@ -16,8 +14,6 @@ python mostly. building things for telegram, music, and whatever else comes up.
 - [**tuchka**](https://github.com/yepIwt/Tuchka) — use vk as free cloud storage
 - [**syncmm**](https://github.com/yepIwt/syncmm) — sync music across streaming platforms
 - [**VKGIFSBot**](https://github.com/weescr/VKGIFSBot) — inline telegram bot for sending gifs from vk
-
----
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -36,10 +32,4 @@ python mostly. building things for telegram, music, and whatever else comes up.
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yepIwt&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="140" />
-</div>
-
----
-
-<div align="center">
-  <a href="https://t.me/codeyouth">t.me/codeyouth</a>
 </div>
