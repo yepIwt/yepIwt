@@ -12,7 +12,7 @@ python mostly. building things for telegram, music, and whatever else comes up.
 
 **things i've worked on**
 
-- [**neegde**](https://github.com/yepIwt/neegde-tauri) — music streaming app
+- [**neegde**](https://github.com/neegde/neegde-tauri) — music streaming app
 - [**tuchka**](https://github.com/yepIwt/Tuchka) — use vk as free cloud storage
 - [**syncmm**](https://github.com/yepIwt/syncmm) — sync music across streaming platforms
 - [**VKGIFSBot**](https://github.com/weescr/VKGIFSBot) — inline telegram bot for sending gifs from vk
