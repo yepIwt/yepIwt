@@ -11,10 +11,10 @@ doesn't exist? yep, i wrote it.
 **things i've worked on**
 
 - [**neegde**](https://github.com/neegde/neegde-tauri) — music streaming app
+- [**dotmage**](https://github.com/dotmage) — self-hosted zero-knowledge .env secret manager
 - [**tuchka**](https://github.com/yepIwt/Tuchka) — use vk as free cloud storage
 - [**syncmm**](https://github.com/yepIwt/syncmm) — sync music across streaming platforms
 - [**VKGIFSBot**](https://github.com/weescr/VKGIFSBot) — inline telegram bot for sending gifs from vk
-- [**dotmage**](https://github.com/dotmage) — self-hosted zero-knowledge .env secret manager
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
